@@ -1,3 +1,5 @@
+# Note that citibike_feb2014.csv has not been uploaded to this repository due to the large file size.
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Linear Regression and Model Validation Lab
 
 # Description
