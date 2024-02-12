@@ -4,4 +4,6 @@ This repository contains ALL General Assembly Singapore Labs for the Data Scienc
 
 Furthermore I have attempted all bonus questions for all the labs except for the last 2 questions in part 3 of the supplementary lab (part-3-python-ladder) and some of the additional steps for 09_02-lab-neural-network-applied. 
 
+Please wisely use the solutions only as a reference as practice makes perfect.
+
 ![Wes GitHub Enterprise Screenshot](/General_Assembly_Singapore_Github_Enterprise.png "Wes GitHub Enterprise Screenshot")
