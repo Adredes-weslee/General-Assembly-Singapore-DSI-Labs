@@ -1,3 +1,5 @@
 # General-Assembly-Singapore-DSI-Labs
 
+This repository contains ALL General Assembly Singapore Labs for the Data Science Immersive Bootcamp as attempted by me. These are not the solutions provided by GA as I only want to provide my own work. The answers are verified to be correct, as I have cross referenced them with the official solutions or from the comments provided by the TAs after they have marked my labs. The screenshot verifies that I have completed all the labs by the 17th of August 2023, slightly more than 4 weeks before the end date of my course which is the 15th of September 2023. GA only requires 75% of labs to be completed to pass the bootcamp (not including the supplementary labs), but to showcase my hardwork and discipline, I have completed all the labs before 2/3rds of the course was done, and am the only person in my batch to have completed all the labs. :)
+
 ![Wes GitHub Enterprise Screenshot](/General_Assembly_Singapore_Github_Enterprise.png "Wes GitHub Enterprise Screenshot")
