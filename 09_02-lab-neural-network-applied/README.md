@@ -1,3 +1,5 @@
+# Please note that train.csv and test.csv have not been uploaded to this repository due to the large file size
+
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Applied Neural Network Lab: Digit Recognition
 
 In this lab, you'll create a submission to [Kaggle's Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition using a neural network you've built in Keras.
