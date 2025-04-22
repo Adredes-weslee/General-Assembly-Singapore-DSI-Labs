@@ -42,7 +42,7 @@ It shows my lab repositories (`labs`, `backup_labs`) were updated by **August 17
 ---
 
 **Author:** Wes Lee  
-📅 Completed: August 2023  
-🎓 GA Singapore – Data Science Immersive (Batch 17)
+📅 Completed: September 2023  
+🎓 GA Singapore – Data Science Immersive 38
 
 --- 
